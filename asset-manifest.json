@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/fredrikdn/webkurs2020-CICD-React/static/css/main.69eda509.chunk.css",
+    "main.js": "/fredrikdn/webkurs2020-CICD-React/static/js/main.939f5029.chunk.js",
+    "main.js.map": "/fredrikdn/webkurs2020-CICD-React/static/js/main.939f5029.chunk.js.map",
+    "runtime-main.js": "/fredrikdn/webkurs2020-CICD-React/static/js/runtime-main.510b6d0e.js",
+    "runtime-main.js.map": "/fredrikdn/webkurs2020-CICD-React/static/js/runtime-main.510b6d0e.js.map",
+    "static/css/2.0a5b19c0.chunk.css": "/fredrikdn/webkurs2020-CICD-React/static/css/2.0a5b19c0.chunk.css",
+    "static/js/2.16ab8709.chunk.js": "/fredrikdn/webkurs2020-CICD-React/static/js/2.16ab8709.chunk.js",
+    "static/js/2.16ab8709.chunk.js.map": "/fredrikdn/webkurs2020-CICD-React/static/js/2.16ab8709.chunk.js.map",
+    "index.html": "/fredrikdn/webkurs2020-CICD-React/index.html",
+    "precache-manifest.5d51a50e0dd5eb26c7542accb61284d4.js": "/fredrikdn/webkurs2020-CICD-React/precache-manifest.5d51a50e0dd5eb26c7542accb61284d4.js",
+    "service-worker.js": "/fredrikdn/webkurs2020-CICD-React/service-worker.js",
+    "static/css/2.0a5b19c0.chunk.css.map": "/fredrikdn/webkurs2020-CICD-React/static/css/2.0a5b19c0.chunk.css.map",
+    "static/css/main.69eda509.chunk.css.map": "/fredrikdn/webkurs2020-CICD-React/static/css/main.69eda509.chunk.css.map",
+    "static/js/2.16ab8709.chunk.js.LICENSE.txt": "/fredrikdn/webkurs2020-CICD-React/static/js/2.16ab8709.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.510b6d0e.js",
+    "static/css/2.0a5b19c0.chunk.css",
+    "static/js/2.16ab8709.chunk.js",
+    "static/css/main.69eda509.chunk.css",
+    "static/js/main.939f5029.chunk.js"
+  ]
+}
