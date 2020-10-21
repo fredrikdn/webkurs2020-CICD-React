@@ -13,7 +13,7 @@ jobs:
 
     strategy:
       matrix:
-        node-version: [12.x]
+        node-version: [14.x]
 
     steps:
     - uses: actions/checkout@v2
@@ -25,8 +25,12 @@ jobs:
     - run: npm run build --if-present
     - name: Deploy
       run: |
-        git remote set-url origin https://${github_token}@github.com/${repository}
+        git config --global user.name $user_name
+        git config --global user.email $user_email
+        git remote set-url origin https://github.com/$%7Brepository%7D
         npm run deploy
       env:
+        user_name: 'Ettellerannet'
+        user_email: 'Ettellerannet@epost.no'
         github_token: ${{ secrets.ACTIONS_DEPLOY_ACCESS_TOKEN }}
         repository: ${{ github.repository }}
